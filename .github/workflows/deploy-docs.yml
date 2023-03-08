@@ -32,4 +32,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: docs/.vuepress/dist
           user_name: 'bumu'
-          user_email: 'bumu@@live.com"
+          user_email: 'bumu@@live.com'
