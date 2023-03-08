@@ -1,9 +1,9 @@
 dev:
 	 pnpm docs:dev
 
-build: install
+build:
+	 pnpm i
 	 pnpm docs:build
 
 install:
-	pnpm i
-	#pnpm add -D vuepress@next
+	pnpm add -D vuepress@next vuepress/bundler-vite@next @vuepress/client@next @vuepress/theme-default@next @vuepress/utils
