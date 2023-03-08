@@ -1,8 +1,9 @@
 dev:
-	 yarn run docs:dev
+	 pnpm docs:dev
 
 build: install
-	 yarn run docs:build
+	 pnpm docs:build
 
 install:
-	yarn add -D vuepress@next
+	pnpm i
+	#pnpm add -D vuepress@next
