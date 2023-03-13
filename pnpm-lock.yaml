@@ -4,12 +4,14 @@ specifiers:
   '@vuepress/bundler-vite': 2.0.0-beta.61
   '@vuepress/bundler-webpack': ^2.0.0-beta.45
   '@vuepress/cli': 2.0.0-beta.61
+  '@vuepress/client': 2.0.0-beta.61
   '@vuepress/plugin-docsearch': ^2.0.0-alpha.1
   '@vuepress/plugin-shiki': ^2.0.0-beta.5
   '@vuepress/theme-default': 2.0.0-beta.61
   '@vuepress/utils': 2.0.0-alpha.1
+  bundler-vite@next: link:vuepress/bundler-vite@next
   vue: ^3.2.47
-  vuepress: ^2.0.0-beta.61
+  vuepress: 2.0.0-beta.61
 
 dependencies:
   '@vuepress/bundler-webpack': 2.0.0-beta.45
@@ -19,10 +21,12 @@ dependencies:
 devDependencies:
   '@vuepress/bundler-vite': 2.0.0-beta.61
   '@vuepress/cli': 2.0.0-beta.61
+  '@vuepress/client': 2.0.0-beta.61
   '@vuepress/theme-default': 2.0.0-beta.61
   '@vuepress/utils': 2.0.0-alpha.1
+  bundler-vite@next: link:vuepress/bundler-vite@next
   vue: 3.2.47
-  vuepress: 2.0.0-beta.61_vue@3.2.47
+  vuepress: 2.0.0-beta.61_zcwlgd45apez724duilctoxt4u
 
 packages:
 
@@ -4497,7 +4501,7 @@ packages:
       '@vue/server-renderer': 3.2.47_vue@3.2.47
       '@vue/shared': 3.2.47
 
-  /vuepress-vite/2.0.0-beta.61_vue@3.2.47:
+  /vuepress-vite/2.0.0-beta.61_zcwlgd45apez724duilctoxt4u:
     resolution: {integrity: sha512-4mcR8XSY5b36CYkPqF80WvoeGAEjTw6Cr9bMPHrPVSjG4qqyfVpdSdyRtXD+/5aLJB7r/L60J7PI1pKTci1+3w==}
     hasBin: true
     peerDependencies:
@@ -4506,6 +4510,7 @@ packages:
     dependencies:
       '@vuepress/bundler-vite': 2.0.0-beta.61
       '@vuepress/cli': 2.0.0-beta.61
+      '@vuepress/client': 2.0.0-beta.61
       '@vuepress/core': 2.0.0-beta.61
       '@vuepress/theme-default': 2.0.0-beta.61
       vue: 3.2.47
@@ -4522,11 +4527,11 @@ packages:
       - ts-node
     dev: true
 
-  /vuepress/2.0.0-beta.61_vue@3.2.47:
+  /vuepress/2.0.0-beta.61_zcwlgd45apez724duilctoxt4u:
     resolution: {integrity: sha512-gpttL0x5ZvI9eTyR/pexBknIAcgrdjAWoiJc7OYd4bIVfwlXAb4GO4A2EwRSX+pIaNOWdcd+sfZA86EMEbrtNg==}
     hasBin: true
     dependencies:
-      vuepress-vite: 2.0.0-beta.61_vue@3.2.47
+      vuepress-vite: 2.0.0-beta.61_zcwlgd45apez724duilctoxt4u
     transitivePeerDependencies:
       - '@types/node'
       - '@vue/composition-api'
