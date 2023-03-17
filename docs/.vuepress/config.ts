@@ -36,7 +36,7 @@ export default defineUserConfig({
 
   // configure default theme
   theme: defaultTheme({
-    logo: '/images/hero.png',
+    logo: '/logo.png',
     repo: 'airdb-wiki/ai',
     docsDir: 'docs',
 

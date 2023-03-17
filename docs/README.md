@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/hero.png
+heroImage: /airdb_ai.png
 actions:
   - text: Get Started
     link: /AIGC/
