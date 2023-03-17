@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c7d22d34","path":"/algorithm/machine-learning-with-go/chapter-02/vectors.html","title":"Vectors","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1679023864000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"algorithm/machine-learning-with-go/chapter-02/vectors.md"}');export{e as data};

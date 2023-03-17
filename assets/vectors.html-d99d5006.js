@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as r,R as e,t as s}from"./framework-5866ffd3.js";const o={},a=e("h1",{id:"vectors",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vectors","aria-hidden":"true"},"#"),s(" Vectors")],-1),n=[a];function _(d,i){return c(),r("div",null,n)}const l=t(o,[["render",_],["__file","vectors.html.vue"]]);export{l as default};
