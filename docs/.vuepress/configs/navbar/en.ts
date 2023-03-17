@@ -9,8 +9,9 @@ export const navbarEn: NavbarConfig = [
   {
     text: 'Algorithm',
     children: [
-          { text: 'Intro', link: '/', },
+          { text: 'Intro', link: '/algorithm', },
     ],
   },
+  { text: 'Fine-Tune', link: '/fine-tune/', },
   { text: 'AIGC', link: '/aigc/', },
 ]
