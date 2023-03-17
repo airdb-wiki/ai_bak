@@ -6,12 +6,7 @@ export const navbarEn: NavbarConfig = [
     text: 'Home',
     link: 'https://airdb.wiki',
   },
-  {
-    text: 'Algorithm',
-    children: [
-          { text: 'Intro', link: '/algorithm', },
-    ],
-  },
+  { text: 'Algorithm', link: '/algorithm/' },
   { text: 'Fine-Tune', link: '/fine-tune/', },
   { text: 'AIGC', link: '/aigc/', },
 ]
